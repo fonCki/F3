@@ -10,7 +10,7 @@ Our goal is to design and implement a system that not only meets G2G’s immedia
 
 ![](Docs/domain_model.png)
 
-**Figure 1: Conceptual domain model. ![ref1]**
+**Figure 1: Conceptual domain model.
 
 To develop this application, a simple domain-specific language for describing the objects, products and all the different categories of drinks, food, and fruits as well as computing the prices need to be developed. 
 
